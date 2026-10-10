@@ -4,7 +4,7 @@ A computer networking project created in **Cisco Packet Tracer**, featuring a ro
 
 ## Network topology
 
-![Network topology shown in Cisco Packet Tracer](images/network-topology.png)
+![Network topology shown in Cisco Packet Tracer](network-topology.png)
 
 The supplied topology screenshot shows:
 
